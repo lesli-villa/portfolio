@@ -1,0 +1,45 @@
+h1 {
+font-family:"Arial", Times, serif;
+
+font-size: 50px; color: red;
+    text-align: center;
+    border-style: dotted;
+}
+h2 {
+  border-left: 6px solid green;
+    background-color: white;
+}
+.intro {
+ color: blue;
+ font-family:"Arial", Times, serif;
+}
+body {
+    background-color: white;
+}
+.tabone {
+color: white;
+padding:  5% 30%;
+border-radius: 9px;
+border: solid;
+border-width: 5px;
+background: #000000;
+}
+.button1 {
+    background-color: #008CBA;
+    color: black;
+    padding: 15px 32px;
+
+  }
+.button1:hover {
+    background-color: #4CAF50;
+    color: white;
+}
+  .button2 {
+      background-color: #008CBA;
+      color: black;
+      padding: 15px 32px;
+    }
+    .button2:hover {
+        background-color: #f44336;
+        color: white;
+    }
